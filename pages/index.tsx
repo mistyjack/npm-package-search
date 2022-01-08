@@ -12,7 +12,6 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <h1>Search For a Package</h1>
         <RepositoriesList />
       </main>
     </div>
